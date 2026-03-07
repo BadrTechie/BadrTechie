@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Badreddine 👋
 
-<!--
-**BadrTechie/BadrTechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on **fraud detection, machine learning systems, and backend engineering**.
 
-Here are some ideas to get you started:
+I build practical ML systems that detect financial fraud and analyze payment risk patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### Detectra
+Real-time fraud detection platform combining machine learning, behavioral analysis, and rule-based risk detection.
+
+Technologies:
+- Python
+- FastAPI
+- XGBoost
+- Scikit-learn
+- Streamlit
+
+Repository:
+https://github.com/BadrTechie/Detectra
+
+---
+
+### Resume Ranking NLP
+NLP system that parses and ranks CVs using feature extraction and multi-signal scoring.
+
+Technologies:
+- Python
+- NLP
+- Machine Learning
+
+Repository:
+https://github.com/BadrTechie/resume-ranking-nlp
+
+---
+
+## Interests
+
+- Fraud Detection
+- Payment Risk Systems
+- Machine Learning Engineering
+- Backend APIs
+- Data Systems
