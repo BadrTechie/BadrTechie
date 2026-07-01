@@ -1,4 +1,5 @@
 Badreddine Lechhab
+
 Computer Science Student @ Al Akhawayn University | AI Engineering & Backend Systems
 I'm a Computer Science student specializing in Artificial Intelligence, focused on building practical AI systems that solve real business problems. My interests span AI engineering, backend development, Retrieval-Augmented Generation (RAG), data pipelines, and scalable software architecture.
 My goal is simple: build AI products that are useful, scalable, and deliver measurable business value.
