@@ -19,13 +19,36 @@
 
 About Me
 
-I’m a Computer Science student specializing in Artificial Intelligence, focused on building practical AI systems that solve real business problems.
+I’m a Computer Science student at Al Akhawayn University, specializing in Artificial Intelligence.
 
-My work is centered around AI engineering, backend development, Retrieval-Augmented Generation, data pipelines, automation, and scalable software architecture.
+I focus on building practical AI systems that solve real business problems, especially in AI engineering, backend development, Retrieval-Augmented Generation, data pipelines, automation, and scalable software architecture.
 
-I’m not just interested in models — I’m interested in building complete AI products that are useful, reliable, and valuable in production environments.
+I’m interested in more than just models. I enjoy building complete systems — from data processing and backend APIs to retrieval pipelines, user-facing applications, and deployment-ready AI products.
 
-Goal: Build AI products that are useful, scalable, and deliver measurable business value.
+Goal: Build AI products that are useful, scalable, and valuable in real business environments.
+
+⸻
+
+Education
+
+Al Akhawayn University
+
+Bachelor of Science in Computer Science
+Specialization: Artificial Intelligence
+Location: Ifrane, Morocco
+
+Relevant focus areas:
+
+* Artificial Intelligence
+* Machine Learning
+* Data Structures & Algorithms
+* Backend Systems
+* Databases
+* Software Engineering
+* Data Engineering
+* Big Data & IoT
+
+Academic Recognition: Dean’s List
 
 ⸻
 
@@ -36,12 +59,13 @@ Impact Snapshot
 * Built a RAG pipeline with 2,345 semantic chunks and embeddings prepared for retrieval.
 * Worked with FastAPI, PostgreSQL, Milvus, BGE-M3 embeddings, and document ingestion pipelines.
 * Developed AI systems involving fraud detection, semantic search, telemetry analysis, and automated insight generation.
+* Focused on turning complex business problems into practical AI tools that people can actually use.
 
 ⸻
 
 Current Work
 
-AI Knowledge Platform — Sogetrel
+AI Knowledge Platform — Sogetrel / AXE Value
 
 Building an internal AI-powered knowledge platform for the FDE department, designed to transform operational documentation into structured, searchable, and reliable business knowledge.
 
@@ -56,7 +80,7 @@ Key components:
 * FastAPI backend architecture
 * RAG-based question answering with source citations
 
-Focus: turning messy internal documentation into a searchable AI knowledge system that employees can actually use.
+Focus: turning messy internal documentation into a searchable AI knowledge system that supports business operations.
 
 ⸻
 
@@ -88,6 +112,7 @@ Capabilities:
 * Performance visualizations
 * Race debrief generation
 * Automated insight extraction
+* Performance-focused data visualization
 
 ⸻
 
@@ -152,9 +177,9 @@ Career Goal
 
 I’m working toward becoming an AI Engineer capable of building complete AI products end-to-end.
 
-That means going beyond notebooks and models — from data pipelines and machine learning systems to APIs, user interfaces, deployment, monitoring, and real business adoption.
+That means going beyond notebooks and models — from data pipelines and machine learning systems to backend APIs, user interfaces, deployment, monitoring, and real business adoption.
 
-Long term, I want to build AI-powered business intelligence systems that help companies turn their documents, data, and processes into intelligent decision-making tools.
+Long term, I want to build AI-powered business intelligence systems that help companies turn their documents, data, and internal processes into intelligent decision-making tools.
 
 ⸻
 
